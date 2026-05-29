@@ -1,0 +1,15 @@
+{
+  "mode": "apps_script",
+  "google_ip": "216.239.38.120",
+  "front_domain": "www.google.com",
+  "script_id":"",
+  "auth_key":"",
+  "listen_host": "127.0.0.1",
+  "listen_port": 8085,
+  "socks5_port": 8086,
+  "log_level": "info",
+  "fetch_ips_from_api":true,
+  "max_ips_to_scan":100, 
+  "sni_hosts":["www.google.com", "mail.google.com", "drive.google.com", "docs.google.com", "calendar.google.com"],
+  "sni_rotation":"per_connection"
+}
